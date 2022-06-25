@@ -1,0 +1,26 @@
+.mytoggleclass{
+    background-color: coral;
+    color: white;
+    padding: 20px;
+    width: 100%;
+    box-sizing: content-box;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 100px;
+}
+#h1-tag{
+    width: 100%;
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+#btn{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    margin-left: 700px;
+}
+h1{
+    text-align: center;
+}
